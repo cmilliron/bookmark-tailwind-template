@@ -77,3 +77,8 @@
   transform: rotate(-45deg) translateY(6px) translateX(-6px);
   background-color: #fff;
 }
+
+/* Hero */
+.hero-button {
+  @apply p-4 text-sm font-semibold rounded shadow-md border-2 md:text-base;
+}
